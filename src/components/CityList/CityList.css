@@ -1,0 +1,16 @@
+.city_list label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.city_list select {
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgb(0, 0, 0, 0.0);
+    width: 100%;
+    border: none;
+    font-size: 22px;
+    padding: 24px;
+    box-sizing: border-box;
+
+}
